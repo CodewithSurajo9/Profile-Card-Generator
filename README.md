@@ -23,7 +23,7 @@ Users can create stylish profile cards with a picture, name, occupation, and sho
 
 ---
 
-🛠️ Technologies Used
-1. HTML5 – Form and layout structure
-2. CSS3 – Styling, animations, and glassmorphism
-3.  JavaScript (Vanilla) – DOM manipulation & localStorage handling   
+## 🛠️ Technologies Used
+- HTML5 – Form and layout structure
+- CSS3 – Styling, animations, and glassmorphism
+- JavaScript (Vanilla) – DOM manipulation & localStorage handling   
