@@ -12,12 +12,16 @@ Users can create stylish profile cards with a picture, name, occupation, and sho
 - it & Delete buttons for card management.
 - esponsive layout with hover animations.
 
-🖥️ How It Works
-1. Click "Upload Profile Pic" to select an image from your device.
-2. Enter Name, Occupation, and a short Bio.
-3. Click Submit — your card appears below the form.
-4. Cards are saved in local storage so they persist after refresh.
-5. Use Edit to modify card details or Delete to remove them.
+---
+
+## 🖥️ How It Works
+- Click "Upload Profile Pic" to select an image from your device.
+- Enter Name, Occupation, and a short Bio.
+- Click Submit — your card appears below the form.
+- Cards are saved in local storage so they persist after refresh.
+- Use Edit to modify card details or Delete to remove them.
+
+---
 
 🛠️ Technologies Used
 1. HTML5 – Form and layout structure
