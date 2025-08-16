@@ -2,13 +2,15 @@
 A responsive profile card generator built using HTML, CSS, and JavaScript, featuring image uploads, edit/delete functionality, and local storage persistence.
 Users can create stylish profile cards with a picture, name, occupation, and short bio — all saved even after refreshing the page.
 
-🚀 Features
-1. Upload profile pictures directly from your device (supports JPG, PNG, etc.).
-2. Glassmorphism design for modern aesthetics.
-3. Dynamic card creation without page reload.
-4. Local Storage support — cards remain after refresh.
-5. Edit & Delete buttons for card management.
-6. Responsive layout with hover animations.
+---
+
+## 🚀 Features
+- Upload profile pictures directly from your device (supports JPG, PNG, etc.).
+- Glassmorphism design for modern aesthetics.
+- Dynamic card creation without page reload.
+- local Storage support — cards remain after refresh.
+- it & Delete buttons for card management.
+- esponsive layout with hover animations.
 
 🖥️ How It Works
 1. Click "Upload Profile Pic" to select an image from your device.
